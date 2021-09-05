@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*  header css start */
+
+.header{
+    background-color: rgb(212, 233, 241);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 0 5px;
+    color: rgb(110, 131, 134);
+} 
+a:hover{
+    color: #000;
+}
+
+.main-form{
+  padding: 3px 5px ;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.btn{
+    border: 1px solid green;
+    border-radius: 5px;
+    color: green;
+}
+.btn:hover{
+    background-color: green;
+}
+
+/* header css end */
+
+
+/* banner css start */
+.banner{
+    text-align: center;
+}
+.btn-1{
+   
+    padding: 10px 5px;
+    padding-right: 400px;
+    border-radius: 5px;
+    background-color: rgb(224, 236, 240);
+    border: 1px solid #ddd;
+}
+
+.op{
+    position: absolute;
+    top: 400px;
+    left: 0;
+}
+.opa{
+    position: absolute;
+    top: 440px;
+    left: 0;
+}
+
+
+
+.ba{
+   position: absolute;
+   top: 260px;
+   left: 450px;
+    color: #fff;
+    text-align: center;
+}
+
+
